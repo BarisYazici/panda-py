@@ -35,6 +35,9 @@ examples = [
     "ansitable",
     "qpsolvers",
 ]
+gello = [
+    "dynamixel-sdk>=3.7.0",
+]
 docs = [
     "furo",
     "sphinx-reredirects",

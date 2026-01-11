@@ -1,0 +1,11 @@
+# Gello to Panda Teleoperation Requirements
+# Install with: pip install -r requirements.txt
+
+# Panda robot control library
+panda-python>=0.8.0
+
+# Dynamixel servo communication
+dynamixel-sdk>=3.7.0
+
+# Numerical operations
+numpy>=1.20.0
